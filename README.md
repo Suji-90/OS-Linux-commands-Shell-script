@@ -1346,6 +1346,9 @@ else
 fi
 ```
 ## OUTPUT 
+Enter the number
+5
+Number is palindrome
 
 
 # RESULT:
